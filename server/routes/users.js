@@ -1,8 +1,10 @@
 /*
-File Name: users.js
-Name: Sravan Kumar Reddy Konudula
-Id: 301237930
-Date: 2nd October 2022
+
+File Name: user.js
+Name: Husna Bakhshi
+Id: 301194192
+Date: 23 October 2022
+
 */
 
 var express = require('express');
